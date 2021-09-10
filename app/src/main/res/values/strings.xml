@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name="pakai_layout">pakai layout</string>
+    <string name="username">Username</string>
+    <string name="asdf">asdf</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="email">Email</string>
+    <string name="input_password_here">Input Password Here!</string>
+</resources>
